@@ -2,7 +2,10 @@
 .Rdata
 .RData
 .nwb
+*.nwb
 /boc
 /boc/
+boc/
 /lib
 /lib/
+lib/
