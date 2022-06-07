@@ -1,0 +1,4 @@
+id imaging_depth targeted_structure cre_line reporter_line donor_name specimen_name tags failed
+680150731 375 VISp Pvalb-IRES-Cre Ai162(TIT2L-GC6s-ICL-tTA2) 373762 Pvalb-IRES-Cre;Ai162-373762 [] False
+676503586 275 VISp Pvalb-IRES-Cre Ai162(TIT2L-GC6s-ICL-tTA2) 373762 Pvalb-IRES-Cre;Ai162-373762 [] False
+674679297 200 VISp Pvalb-IRES-Cre Ai162(TIT2L-GC6s-ICL-tTA2) 373762 Pvalb-IRES-Cre;Ai162-373762 [] False

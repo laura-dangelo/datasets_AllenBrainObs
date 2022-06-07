@@ -1,0 +1,10 @@
+id imaging_depth targeted_structure cre_line reporter_line acquisition_age_days experiment_container_id session_type donor_name specimen_name fail_eye_tracking
+681047011 375 VISp Pvalb-IRES-Cre Ai162(TIT2L-GC6s-ICL-tTA2) 109 680150731 three_session_C2 373762 Pvalb-IRES-Cre;Ai162-373762 False
+680150733 375 VISp Pvalb-IRES-Cre Ai162(TIT2L-GC6s-ICL-tTA2) 107 680150731 three_session_A 373762 Pvalb-IRES-Cre;Ai162-373762 False
+680600666 375 VISp Pvalb-IRES-Cre Ai162(TIT2L-GC6s-ICL-tTA2) 108 680150731 three_session_B 373762 Pvalb-IRES-Cre;Ai162-373762 False
+679697901 275 VISp Pvalb-IRES-Cre Ai162(TIT2L-GC6s-ICL-tTA2) 106 676503586 three_session_C2 373762 Pvalb-IRES-Cre;Ai162-373762 False
+679346829 275 VISp Pvalb-IRES-Cre Ai162(TIT2L-GC6s-ICL-tTA2) 99 676503586 three_session_B 373762 Pvalb-IRES-Cre;Ai162-373762 False
+676503588 275 VISp Pvalb-IRES-Cre Ai162(TIT2L-GC6s-ICL-tTA2) 98 676503586 three_session_A 373762 Pvalb-IRES-Cre;Ai162-373762 False
+675062364 200 VISp Pvalb-IRES-Cre Ai162(TIT2L-GC6s-ICL-tTA2) 93 674679297 three_session_B 373762 Pvalb-IRES-Cre;Ai162-373762 False
+676024958 200 VISp Pvalb-IRES-Cre Ai162(TIT2L-GC6s-ICL-tTA2) 95 674679297 three_session_C2 373762 Pvalb-IRES-Cre;Ai162-373762 False
+675477919 200 VISp Pvalb-IRES-Cre Ai162(TIT2L-GC6s-ICL-tTA2) 94 674679297 three_session_A 373762 Pvalb-IRES-Cre;Ai162-373762 False
